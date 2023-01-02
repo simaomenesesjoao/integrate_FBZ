@@ -2,4 +2,4 @@ this code implements the kubo-bastin formula by integrating over something that 
 
 This code integrates the derivative of eigenfunctions over the whole Brillouin zone 
 
-This is being used in Aires's project on the intrinsic spin-orbit torque project
+This is being used in a project on the intrinsic spin-orbit torque project
